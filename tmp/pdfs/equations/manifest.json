@@ -1,0 +1,337 @@
+[
+  {
+    "latex": "\\dfrac{Y(s)}{R(s)}=\\dfrac{C(s)G(s)}{1+C(s)G(s)}\\qquad \\dfrac{Y(s)}{D_i(s)}=\\dfrac{G(s)}{1+C(s)G(s)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\61c2070a59b478e4.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{D}=\\dfrac{G_d}{1+CG}\\qquad \\dfrac{Y}{D_o}=\\dfrac{1}{1+CG}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\ea8ef3ab871980d2.png"
+  },
+  {
+    "latex": "E(s)=R(s)-Y(s)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\e4e8e0e7fda31386.png"
+  },
+  {
+    "latex": "U(s)=C(s)E(s)\\qquad Y(s)=G(s)U(s)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\c39b33040cf30488.png"
+  },
+  {
+    "latex": "E=R-Y",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\e14e2eddc2f7e7ca.png"
+  },
+  {
+    "latex": "U=CE",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b69ab682124a213a.png"
+  },
+  {
+    "latex": "Y=G(U+D_i)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\9253863ee839d8e7.png"
+  },
+  {
+    "latex": "Y=G\\left[C(R-Y)+D_i\\right]=CGR-CGY+GD_i",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\fb2d79c175695675.png"
+  },
+  {
+    "latex": "Y(1+CG)=CGR+GD_i",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\dff1d59cb46328cc.png"
+  },
+  {
+    "latex": "\\left.\\dfrac{Y}{R}\\right|_{D_i=0}=\\dfrac{CG}{1+CG}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\a7ee574521d345fc.png"
+  },
+  {
+    "latex": "\\left.\\dfrac{Y}{D_i}\\right|_{R=0}=\\dfrac{G}{1+CG}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b54eba6e9b95f2b4.png"
+  },
+  {
+    "latex": "t_{e,2\\%}\\approx\\dfrac{4}{\\zeta\\omega_n}=\\dfrac{4}{\\sigma}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\3ba81b9c33414fc0.png"
+  },
+  {
+    "latex": "M_p=\\exp\\!\\left(-\\dfrac{\\pi\\zeta}{\\sqrt{1-\\zeta^2}}\\right),\\qquad 0<\\zeta<1",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\559ea95ab162fecb.png"
+  },
+  {
+    "latex": "G(s)=\\dfrac{1}{(s+1)(s+5)}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\0d556fd99c9a4a17.png"
+  },
+  {
+    "latex": "C(s)=K(s+1)",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\79858f0e8a479a6c.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{R}=\\dfrac{K}{s+5+K}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b8d808a301aa8def.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{D_i}=\\dfrac{1}{(s+1)(s+5+K)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\35330ae31bc9f12e.png"
+  },
+  {
+    "latex": "e(t)=r(t)-y(t)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\ed06353ede759a80.png"
+  },
+  {
+    "latex": "u_I(t)=K_i\\int_0^t e(\\tau)\\,d\\tau",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\cf1c5eb9d066b0fb.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{R}=\\dfrac{FCG}{1+CG}\\qquad \\dfrac{Y}{D_i}=\\dfrac{G}{1+CG}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\e744ba034cf15a47.png"
+  },
+  {
+    "latex": "G(s)=\\dfrac{1}{s+1}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\fc90f764b356aba8.png"
+  },
+  {
+    "latex": "C(s)=\\dfrac{6(s+2)}{s}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\c03ef364da78d82d.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{R}=\\dfrac{6(s+2)}{(s+3)(s+4)}\\qquad \\dfrac{Y}{D_i}=\\dfrac{s}{(s+3)(s+4)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\d15f2f99310ccd73.png"
+  },
+  {
+    "latex": "F(s)=\\dfrac{2}{s+2}\\quad\\Longrightarrow\\quad \\dfrac{Y}{R}=\\dfrac{12}{(s+3)(s+4)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b74b30eab2094252.png"
+  },
+  {
+    "latex": "y(t)=1-4e^{-3t}+3e^{-4t}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\bb3ff9831caac9b2.png"
+  },
+  {
+    "latex": "u(t)=K_c\\left[b\\,r(t)-y(t)+\\dfrac{1}{T_i}\\int_0^t\\!\\left(r(\\tau)-y(\\tau)\\right)\\,d\\tau\\right.",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\272e5811ce588b26.png"
+  },
+  {
+    "latex": "\\left.\\qquad\\qquad +\\,T_d\\left(c\\,\\dfrac{dr(t)}{dt}-\\dfrac{dy(t)}{dt}\\right)\\right]",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\7762e8848989620d.png"
+  },
+  {
+    "latex": "1+C(s)G(s)=\\dfrac{(s+3)(s+4)}{s(s+1)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\a2e4e9c24e841a36.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{R}=\\dfrac{6(s+2)}{(s+3)(s+4)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\ab5c18aa4a149e8e.png"
+  },
+  {
+    "latex": "F(0)=1",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b2174b58f1a50e7f.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{R}=\\dfrac{12}{(s+3)(s+4)}\\quad\\mathrm{con}\\;F(s)=\\dfrac{2}{s+2}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b57f48cf28c93f51.png"
+  },
+  {
+    "latex": "G_{bi}(s)=\\dfrac{C_i(s)G_1(s)}{1+C_i(s)G_1(s)H_x(s)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b4555acd268ffe51.png"
+  },
+  {
+    "latex": "G_{\\mathrm{externa}}(s)=G_{bi}(s)G_2(s)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\7ee6932393a30267.png"
+  },
+  {
+    "latex": "G_1(s)=\\dfrac{10}{s+9}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\da34fda7a8bc90a1.png"
+  },
+  {
+    "latex": "H_x=1",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\ed3ca3fbf78809a6.png"
+  },
+  {
+    "latex": "\\dfrac{1}{1+C_iG_1(0)}=\\dfrac{9}{9+10C_i}=0{,}1",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\03a798cbd7d9b04c.png"
+  },
+  {
+    "latex": "C_i=8{,}1\\qquad G_{bi}(s)=\\dfrac{81}{s+90}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\805ff1c85d05dd30.png"
+  },
+  {
+    "latex": "G_{bi}(s)=\\dfrac{C_iG_1}{1+C_iG_1H_x}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\67bf871c62fba2db.png"
+  },
+  {
+    "latex": "G_{eq}(s)=G_{bi}(s)G_2(s)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\e060a87d5746e2e7.png"
+  },
+  {
+    "latex": "Y=G_uU+G_dD\\qquad D_m=H_dD",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\64965d39ef2e5806.png"
+  },
+  {
+    "latex": "U=C(R-Y)+F_{\\!ff}D_m",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\a723cba012fd00f2.png"
+  },
+  {
+    "latex": "\\dfrac{Y}{D}=\\dfrac{G_d+G_uF_{\\!ff}H_d}{1+CG_u}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b8149f20b28283e3.png"
+  },
+  {
+    "latex": "F_{\\!ff}=-\\dfrac{G_d}{G_uH_d}\\qquad\\text{(cancelación ideal)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\91f1aef14b91a62b.png"
+  },
+  {
+    "latex": "G_u=\\dfrac{2}{5s+1}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\6764355026a928c9.png"
+  },
+  {
+    "latex": "G_d=\\dfrac{1}{2s+1}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\9c283d4c738c6f6d.png"
+  },
+  {
+    "latex": "H_d=1",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\5bc5514510e038c1.png"
+  },
+  {
+    "latex": "F_{\\!ff}(s)=-\\dfrac{5s+1}{2(2s+1)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\c082d91b910f747c.png"
+  },
+  {
+    "latex": "G_uF_{\\!ff}=-\\dfrac{1}{2s+1}=-G_d",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\ace4e9c7fda9dfe1.png"
+  },
+  {
+    "latex": "G_dD+G_uF_{ff}D=0",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\3ac2d47ef5b266b5.png"
+  },
+  {
+    "latex": "F_{ff}=-\\dfrac{G_d}{G_u}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\e436a12ef6b75293.png"
+  },
+  {
+    "latex": "G_p(s)=G_0(s)e^{-Ls}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\fe08a262eca87bce.png"
+  },
+  {
+    "latex": "\\left|e^{-j\\omega L}\\right|=1\\qquad \\angle e^{-j\\omega L}=-\\omega L\\;\\mathrm{rad}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\d97655f1389d1bae.png"
+  },
+  {
+    "latex": "e^{-Ls}\\approx\\dfrac{2-Ls}{2+Ls}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\8e5c1275a41a6c11.png"
+  },
+  {
+    "latex": "G_p(s)=\\dfrac{e^{-2s}}{5s+1}\\approx\\dfrac{1-s}{(1+s)(5s+1)}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\a3fea11d5b3fe935.png"
+  },
+  {
+    "latex": "\\phi(\\omega)=-\\omega L\\;\\mathrm{rad}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\b57b9ea251e6af2c.png"
+  },
+  {
+    "latex": "\\phi(^\\circ)=-\\omega L\\dfrac{180}{\\pi}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\d52237ec42c6d1d7.png"
+  },
+  {
+    "latex": "e^{-Ls}\\approx\\dfrac{1-Ls/2}{1+Ls/2}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\d3714f091854be52.png"
+  },
+  {
+    "latex": "G_p(s)=G_0(s)e^{-Ls}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\fe08a262eca87bce.png"
+  },
+  {
+    "latex": "Y_{\\mathrm{pred}}=G_mU+\\left[Y-G_me^{-L_ms}U\\right]",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\5e05633dd25e1623.png"
+  },
+  {
+    "latex": "U=C\\left(R-Y_{\\mathrm{pred}}\\right)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\75a1b7e47214a4b7.png"
+  },
+  {
+    "latex": "\\dfrac{Y(s)}{R(s)}=\\dfrac{C(s)G_0(s)}{1+C(s)G_0(s)}\\,e^{-Ls}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\349e22e463e28902.png"
+  },
+  {
+    "latex": "G_0=\\dfrac{1}{5s+1}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\060b94f6e739954a.png"
+  },
+  {
+    "latex": "C=\\dfrac{5s+1}{\\tau_cs}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\9c911284e881573a.png"
+  },
+  {
+    "latex": "\\dfrac{Y(s)}{R(s)}=\\dfrac{e^{-2s}}{s+1}",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\f771713322bffb65.png"
+  },
+  {
+    "latex": "y(t)=0\\quad(t<2),\\qquad y(t)=1-e^{-(t-2)}\\quad(t\\geq2)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\58aec0eb5042fcdc.png"
+  },
+  {
+    "latex": "t_e=2+\\ln(50)\\approx5{,}91\\;\\mathrm{s}",
+    "size_pt": 10.6,
+    "image": "tmp\\pdfs\\equations\\ce48fb98e85f478b.png"
+  },
+  {
+    "latex": "Y_{pred}=G_mU+\\left(Y-G_me^{-L_ms}U\\right)",
+    "size_pt": 13,
+    "image": "tmp\\pdfs\\equations\\1893700319d05be5.png"
+  }
+]

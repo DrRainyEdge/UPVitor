@@ -1,0 +1,108 @@
+{
+  "symbolic_checks": [
+    {
+      "check": "reference transfer",
+      "pass": true
+    },
+    {
+      "check": "input disturbance",
+      "pass": true
+    },
+    {
+      "check": "general disturbance",
+      "pass": true
+    },
+    {
+      "check": "output disturbance",
+      "pass": true
+    },
+    {
+      "check": "cancellation reference",
+      "pass": true
+    },
+    {
+      "check": "cancellation disturbance",
+      "pass": true
+    },
+    {
+      "check": "2DoF before filter",
+      "pass": true
+    },
+    {
+      "check": "2DoF disturbance",
+      "pass": true
+    },
+    {
+      "check": "2DoF after filter",
+      "pass": true
+    },
+    {
+      "check": "2DoF step response",
+      "pass": true
+    },
+    {
+      "check": "2DoF derivative",
+      "pass": true
+    },
+    {
+      "check": "cascade attenuation",
+      "pass": true
+    },
+    {
+      "check": "cascade inner loop",
+      "pass": true
+    },
+    {
+      "check": "feedforward disturbance",
+      "pass": true
+    },
+    {
+      "check": "feedforward cancellation",
+      "pass": true
+    },
+    {
+      "check": "feedforward numeric example",
+      "pass": true
+    },
+    {
+      "check": "Pade equivalent form",
+      "pass": true
+    },
+    {
+      "check": "Pade Taylor to order two",
+      "pass": true
+    },
+    {
+      "check": "Pade numeric example",
+      "pass": true
+    },
+    {
+      "check": "delay phase omega 0.1 L2",
+      "pass": true
+    },
+    {
+      "check": "delay phase omega 0.5 L2",
+      "pass": true
+    },
+    {
+      "check": "delay phase omega 1 L2",
+      "pass": true
+    },
+    {
+      "check": "Smith perfect model",
+      "pass": true
+    },
+    {
+      "check": "Smith numeric example",
+      "pass": true
+    },
+    {
+      "check": "Smith settling residual",
+      "pass": true
+    }
+  ],
+  "equation_images": 67,
+  "pdf_images": 67,
+  "pages": 16,
+  "all_passed": true
+}
